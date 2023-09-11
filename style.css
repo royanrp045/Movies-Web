@@ -353,6 +353,23 @@ section nav .right ul li a:hover {
   object-position: center;
 }
 
-img {
-  width: 150px;
+/* ........ */
+
+.upcoming {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding-bottom: 25px;
+  background-color: #171717;
+}
+
+.upcoming .movies_box {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.upcoming .movies_box h1 {
+  font-size: 20px;
+  color: #fff;
+  margin-bottom: 20px;
 }
