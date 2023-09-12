@@ -739,3 +739,18 @@ section nav .right ul li a:hover {
   font-size: 15px;
   cursor: pointer;
 }
+
+p.end {
+  background: #171717;
+  text-align: center;
+  color: #cccccc;
+  padding: 15px 0;
+}
+
+p.end span {
+  color: #ffe100;
+}
+
+p.end span i {
+  margin: 0 8px;
+}
